@@ -7,6 +7,8 @@ Este paquete contiene:
 
 Primer cambio
 
-Primer cambio 2
+segundo cambio 2
 
 tercer cambio 3
+
+cuarto cambio 4
