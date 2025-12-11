@@ -16,5 +16,3 @@ cuarto cambio 4
 Quinto cambio 5
 
 Sexto Cambio 6
-
-cambio antes del examen
